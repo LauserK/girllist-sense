@@ -253,6 +253,24 @@ input[type=number] {
 	margin: 0 auto;
 }
 
+.emoticones {
+	text-align: center;
+	font-size: 1.5rem;
+	margin-top: 1rem;
+	color:white;
+}
+
+.instagram{
+	font-size: 1.1rem;
+	color: white;
+	text-align: center;
+	margin-top: 1rem;
+}
+
+.fab {
+	vertical-align: middle;
+}
+
 
 @media (max-width: 600px) {
 	#msform {
