@@ -311,6 +311,16 @@ $(function() {
 	}));
 
 	host_combo.append($('<option>', {
+		value: "DJ Pitch",
+		text : "DJ Pitch"
+	}));
+
+	host_combo.append($('<option>', {
+		value: "DJ Tony Flores",
+		text : "DJ Tony Flores"
+	}));
+
+	host_combo.append($('<option>', {
 		value: "No conozco a ninguno",
 		text : "No conozco a ninguno"
 	}));
